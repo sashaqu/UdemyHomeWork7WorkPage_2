@@ -1,4 +1,4 @@
-// homeWork 8
+// homeWork 8-
 let startBtn = document.getElementById('start'),
     budgetValue = document.getElementsByClassName('budget-value')[0],
     dayBudgetValue = document.getElementsByClassName('daybudget-value')[0],
